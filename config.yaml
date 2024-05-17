@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Vaishakh"
-  description: Text about my cool site
+  description: My Personal website
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/profile.png"
 
@@ -226,7 +226,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: false
+      enable: true
       disableFeaturedImage: false
     # socialNetworks:
     #   github: https://github.com
