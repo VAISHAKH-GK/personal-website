@@ -187,26 +187,57 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+      - title: Qryptell ( WIP )
+        content: "A secure and user-friendly end-to-end encrypted messaging app, designed for seamless communication and privacy."
+        image: /images/projects/qryptell.png
+        # featured:
+        #   name: Demo
+        #   link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
+          - "Microservice"
+          - "Go"
+          - "Node"
           - "Javascript"
+          - "Next JS"
+          - "Web Socket"
+          - "Redis"
+          - "MySQL"
+          - "MongoDB"
+          - "Rabbit MQ"
+          - "Cassandra"
+          - "Docker"
+          - "Kubernetes"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
+            url: https://github.com/qryptell
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fgithub.com%2fqryptell%2f
           - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fqryptell
+
+      - title: "Chattanchal HSS Website"
+        content: "A streamlined and user-friendly ERP system for Chattanchal HSS School, designed for efficient admissions and administration."
+        image: /images/projects/chss-website.png
+        featured:
+          name: Visit
+          link: https://chattanchalhss.com
+        badges:
+          - "React"
+          - "Vite"
+          - "JavaScript"
+          - "CSS"
+          - "Axios"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/fulgurcode/chss-chattanchal-website
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fgithub.com%2ffulgurcode%2fchss-chattanchal-website
+          - icon: fab fa-twitter
+            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3a%2f%2fgithub.com%2ffulgurcode%2fchss-chattanchal-website
+
 
   #Contact
   contact:
