@@ -238,6 +238,23 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3a%2f%2fgithub.com%2ffulgurcode%2fchss-chattanchal-website
 
+      - title: "School ERP Backend"
+        content: "A robust and intuitive ERP backend for schools, designed to streamline admissions and administration processes."
+        image: /images/projects/school-erp.png
+        badges:
+          - "Go"
+          - "Gin"
+          - "Mongo DB"
+          - "REST API"
+          - "Web Socket"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/fulgurcode/school-erp-api
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fgithub.com%2ffulgurcode%2fschool-erp-api
+          - icon: fab fa-twitter
+            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3a%2f%2fgithub.com%2ffulgurcode%2fschool-erp-api
+
 
   #Contact
   contact:
