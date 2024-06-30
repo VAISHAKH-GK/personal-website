@@ -221,9 +221,6 @@ params:
       - title: "Chattanchal HSS Website"
         content: "A streamlined and user-friendly ERP system for Chattanchal HSS School, designed for efficient admissions and administration."
         image: /images/projects/chss-website.png
-        featured:
-          name: Visit
-          link: https://chattanchalhss.com
         badges:
           - "React"
           - "Vite"
