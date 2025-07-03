@@ -12,7 +12,8 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+Pagination:
+  pager: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -140,17 +141,17 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.vaishakhgk.com
+          url: https://github.com/VAISHAKH-GK
         - icon: fab fa-linkedin
-          url: https://linkedin.vaishakhgk.com
+          url: https://www.linkedin.com/in/vaishakh-gk
         - icon: fab fa-discord
-          url: https://discord.vaishakhgk.com
+          url: https://discordapp.com/users/7877004908161925
         - icon: fab fa-x-twitter
-          url: https://twitter.vaishakhgk.com
+          url: https://x.com/vaishakhgk2006
         - icon: fab fa-mastodon
-          url: https://mastodon.vaishakhgk.com
+          url: https://fosstodon.org/@vaishakhgk
         - icon: fab fa-gitlab
-          url: https://gitlab.vaishakhgk.com
+          url: https://gitlab.com/VAISHAKH-GK
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
